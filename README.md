@@ -10,6 +10,8 @@ the XMB wallpaper, so running them together can give unexpected results (wrong
 picture, flicker or a crash). The combination has not been tested. Disable CXMB
 in `PLUGINS.TXT` before using VideoBG.
 
+DISCLAIMER: The goal of this project was to assess AI agent usefulness in PSP kernel prx development. Code has been reviewed and tested by a human. 
+
 Install
 -------
 1. Copy the `seplugins` and `PICTURE` folders from the zip to the root of the
