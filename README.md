@@ -23,14 +23,15 @@ Install
        vsh, ms0:/seplugins/videobg.prx, on
 
 3. Reboot, then select the placeholder as the wallpaper:
-   Settings > Theme Settings > Wallpaper > Custom Wallpaper > `videobg_wallpaper`.
+   `Settings > Theme Settings > Wallpaper > Custom Wallpaper > videobg_wallpaper`.
    The video shows up a few seconds after the XMB appears.
 
-Why a placeholder wallpaper is needed: the plugin does not draw its own
+Why a placeholder wallpaper is needed? 
+The plugin does not draw its own
 background. It replaces the picture the XMB is already drawing, so a picture
 wallpaper must be selected. The default colour waves do not work (tested). The
 built-in picture wallpapers do, for example the PSP-2000 "Tasty Treat" one, and
-so does any custom photo. The image in the zip is a plain placeholder so that
+so does any custom photo. The image in the release zip is a plain placeholder so that
 users do not need to supply one.
 
 To remove the plugin, delete the line from `PLUGINS.TXT` (or change `on` to
