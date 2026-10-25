@@ -98,6 +98,7 @@ Known limits
 - On the PSP-1000 the clip is streamed, so playback is slightly less smooth under
   load than on the other models. After leaving USB mode the video pauses for a
   few seconds while the plugin reopens the file, then resumes automatically.
+- Impact on battery life is untested. But it is obviously expected to be lower than with a fixed wallpaper.
 
 Building from source
 --------------------
