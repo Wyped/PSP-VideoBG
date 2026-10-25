@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.prx
+*.vbg
+*.mp4
+*:Zone.Identifier
+release/
